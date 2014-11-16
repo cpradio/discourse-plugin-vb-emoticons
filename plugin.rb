@@ -4,3 +4,4 @@
 # authors: Matthew Wilkin and Allan
 
 register_asset "javascripts/vb-emoji.js", :server_side
+register_asset "stylesheets/vb-emoji.css"
