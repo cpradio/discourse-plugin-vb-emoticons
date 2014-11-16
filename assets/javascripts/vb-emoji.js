@@ -1,5 +1,6 @@
 (function() {
   emojis = {
+    // Smilies 2006
     'vb-smile': '/plugins/vb_emoji/images/smile.gif',
     'vb-rolleyes': '/plugins/vb_emoji/images/rolleyes.gif',
     'vb-confused': '/plugins/vb_emoji/images/confused.gif',
@@ -76,7 +77,24 @@
     'vb-whip': '/plugins/vb_emoji/images/whip.gif',
     'vb-toast': '/plugins/vb_emoji/images/toast.gif',
     'vb-footmouth': '/plugins/vb_emoji/images/footmouth.gif',
-    'vb-inspector': '/plugins/vb_emoji/images/inspector.gif'
+    'vb-inspector': '/plugins/vb_emoji/images/inspector.gif',
+    // Valientie's Day Smilies
+    'vb-valientine2': '/plugins/vb_emoji/images/valientine2.gif',
+    'vb-present': '/plugins/vb_emoji/images/present.gif',
+    'vb-valentine': '/plugins/vb_emoji/images/valentine.gif',
+    'vb-devil': '/plugins/vb_emoji/images/devil.gif',
+    'vb-love-struck': '/plugins/vb_emoji/images/love-struck.gif',
+    'vb-for-you': '/plugins/vb_emoji/images/for-you.gif',
+    'vb-love': '/plugins/vb_emoji/images/love.gif',
+    'vb-love-blush': '/plugins/vb_emoji/images/love-blush.gif',
+    'vb-head-over-heels': '/plugins/vb_emoji/images/head-over-heels.gif',
+    'vb-big-pink-valentine': '/plugins/vb_emoji/images/big-pink-valentine.gif',
+    'vb-stilletto': '/plugins/vb_emoji/images/stilletto.gif',
+    'vb-heart-smiley': '/plugins/vb_emoji/images/heart-smiley.gif',
+    'vb-lust': '/plugins/vb_emoji/images/lust.gif',
+    'vb-smiley-valentines': '/plugins/vb_emoji/images/smiley-valentines.gif',
+    'vb-hearts': '/plugins/vb_emoji/images/hearts.gif',
+    'vb-angel-valentine': '/plugins/vb_emoji/images/angel-valentine.gif'
   };
 
   for (key in emojis) {
