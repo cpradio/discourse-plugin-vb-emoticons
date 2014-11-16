@@ -1,6 +1,7 @@
 # vBulletin Emojis
 
 This plugin adds support for the common and less common vBulletin style emojis.
+![](https://raw.githubusercontent.com/cpradio/vb_emoji/master/screenshot.png)
 
 ## Usage
 
