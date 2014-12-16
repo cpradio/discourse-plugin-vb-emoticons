@@ -20,6 +20,7 @@
     'vb-cyclops': '/plugins/vb_emoji/images/cyclops.gif',
     'vb-goof': '/plugins/vb_emoji/images/goof.gif',
     'vb-sick': '/plugins/vb_emoji/images/sick.gif',
+    'vb-puke': '/plugins/vb_emoji/images/puke.gif',
     'vb-injured': '/plugins/vb_emoji/images/injured.gif',
     'vb-shifty': '/plugins/vb_emoji/images/shifty.gif',
     'vb-cd': '/plugins/vb_emoji/images/cd.gif',
