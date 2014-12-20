@@ -79,6 +79,7 @@
     'vb-toast': '/plugins/vb_emoji/images/toast.gif',
     'vb-footmouth': '/plugins/vb_emoji/images/footmouth.gif',
     'vb-inspector': '/plugins/vb_emoji/images/inspector.gif',
+    'vb-groan': '/plugins/vb_emoji/images/groan.gif',
     // Valientie's Day Smilies
     'vb-valentine2': '/plugins/vb_emoji/images/valentine2.gif',
     'vb-present': '/plugins/vb_emoji/images/present.gif',
