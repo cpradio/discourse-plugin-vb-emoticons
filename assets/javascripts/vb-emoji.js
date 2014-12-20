@@ -80,6 +80,7 @@
     'vb-footmouth': '/plugins/vb_emoji/images/footmouth.gif',
     'vb-inspector': '/plugins/vb_emoji/images/inspector.gif',
     'vb-groan': '/plugins/vb_emoji/images/groan.gif',
+    'vb-groan2': '/plugins/vb_emoji/images/groan2.gif',
     // Valientie's Day Smilies
     'vb-valentine2': '/plugins/vb_emoji/images/valentine2.gif',
     'vb-present': '/plugins/vb_emoji/images/present.gif',
