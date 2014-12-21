@@ -1,5 +1,7 @@
 (function() {
   emojis = {
+    // Global (non-vb-prefix)
+    'd\'oh': '/plugins/vb_emoji/images/doh.gif',
     // Smilies 2006
     'vb-smile': '/plugins/vb_emoji/images/smile.gif',
     'vb-rolleyes': '/plugins/vb_emoji/images/rolleyes.gif',
@@ -81,6 +83,10 @@
     'vb-inspector': '/plugins/vb_emoji/images/inspector.gif',
     'vb-groan': '/plugins/vb_emoji/images/groan.gif',
     'vb-groan2': '/plugins/vb_emoji/images/groan2.gif',
+    'vb-sarcasm-sign': '/plugins/vb_emoji/images/sarcasm-sign.gif',
+    'vb-sarcasm-clap': '/plugins/vb_emoji/images/sarcasm-clap.gif',
+    'vb-tongue-in-cheek': '/plugins/vb_emoji/images/tongue-in-cheek.png',
+    'vb-d\'oh': '/plugins/vb_emoji/images/doh.gif',
     // Valientie's Day Smilies
     'vb-valentine2': '/plugins/vb_emoji/images/valentine2.gif',
     'vb-present': '/plugins/vb_emoji/images/present.gif',
