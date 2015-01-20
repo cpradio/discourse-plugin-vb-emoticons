@@ -1,4 +1,4 @@
-img.emoji[alt*=vb] {
+img.emoji[src*=vb_emoji] {
   width: auto;
   height: auto;
 }
