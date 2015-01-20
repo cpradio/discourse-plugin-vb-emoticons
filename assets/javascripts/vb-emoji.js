@@ -88,7 +88,7 @@
     'vb-sarcasm-clap': '/plugins/vb_emoji/images/sarcasm-clap.gif',
     'vb-tongue-in-cheek': '/plugins/vb_emoji/images/tongue-in-cheek.png',
     'vb-d\'oh': '/plugins/vb_emoji/images/doh.gif',
-    // Valientie's Day Smilies
+    // Valentine's Day Smilies
     'vb-valentine2': '/plugins/vb_emoji/images/valentine2.gif',
     'vb-present': '/plugins/vb_emoji/images/present.gif',
     'vb-valentine': '/plugins/vb_emoji/images/valentine.gif',
