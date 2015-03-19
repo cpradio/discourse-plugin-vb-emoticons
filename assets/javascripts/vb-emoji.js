@@ -202,6 +202,7 @@
     'vb-ghost': '/plugins/vb_emoji/images/ghost.gif',
     'vb-note': '/plugins/vb_emoji/images/note.gif',
     'vb-bouncy3': '/plugins/vb_emoji/images/bouncy3.gif',
+    'vb-surrender': '/plugins/vb_emoji/images/surrender.gif',
     // Show your Support
     'vb-pink-ribbon': '/plugins/vb_emoji/images/pink-ribbon.gif',
     'vb-blue-ribbon': '/plugins/vb_emoji/images/blue-ribbon.gif',
