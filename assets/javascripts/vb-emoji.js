@@ -203,6 +203,7 @@
     'vb-note': '/plugins/vb_emoji/images/note.gif',
     'vb-bouncy3': '/plugins/vb_emoji/images/bouncy3.gif',
     'vb-surrender': '/plugins/vb_emoji/images/surrender.gif',
+    'vb-poke-with-stick': '/plugins/vb_emoji/images/poke-with-stick.gif',
     // Show your Support
     'vb-pink-ribbon': '/plugins/vb_emoji/images/pink-ribbon.gif',
     'vb-blue-ribbon': '/plugins/vb_emoji/images/blue-ribbon.gif',
