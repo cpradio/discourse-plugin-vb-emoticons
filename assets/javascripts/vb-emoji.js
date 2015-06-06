@@ -204,6 +204,7 @@
     'vb-bouncy3': '/plugins/vb_emoji/images/bouncy3.gif',
     'vb-surrender': '/plugins/vb_emoji/images/surrender.gif',
     'vb-poke-with-stick': '/plugins/vb_emoji/images/poke-with-stick.gif',
+    'vb-sailing': '/plugins/vb_emoji/images/sailing.gif',
     // Show your Support
     'vb-pink-ribbon': '/plugins/vb_emoji/images/pink-ribbon.gif',
     'vb-blue-ribbon': '/plugins/vb_emoji/images/blue-ribbon.gif',
