@@ -1,5 +1,5 @@
 (function() {
-  if (Discourse.SiteSettings.vb_emoticions_enabled) {
+  if (Discourse.SiteSettings.vb_emoticons_enabled) {
     emojis = {
       // Global (non-vb-prefix)
       'd\'oh': '/plugins/vb_emoji/images/doh.gif',
