@@ -1,6 +1,6 @@
 export default
 {
-  name: 'imgflip',
+  name: 'vb_emoticons',
   initialize()
   {
     if (Discourse.SiteSettings.vb_emoticons_enabled) {
