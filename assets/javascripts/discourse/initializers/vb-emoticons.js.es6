@@ -4,7 +4,7 @@ export default
   initialize()
   {
     if (Discourse.SiteSettings.vb_emoticons_enabled) {
-      emojis = {
+      var emojis = {
         // Global (non-vb-prefix)
         'd\'oh': '/plugins/vb_emoji/images/doh.gif',
         'hawk': '/plugins/vb_emoji/images/big-pink-valentine.gif',
@@ -216,7 +216,7 @@ export default
         'vb-movember': '/plugins/vb_emoji/images/movember.gif'
       };
 
-      for (key in emojis) {
+      for (var key in emojis) {
         if (emojis.hasOwnProperty(key)) {
           Discourse.Dialect.registerEmoji(key, emojis[key]);
         }
