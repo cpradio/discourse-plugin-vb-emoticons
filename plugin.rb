@@ -6,5 +6,4 @@
 
 enabled_site_setting :vb_emoticons_enabled
 
-register_asset "javascripts/vb-emoticons.js", :server_side
 register_asset "stylesheets/vb-emoticons.css"
