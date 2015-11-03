@@ -1,4 +1,4 @@
-# vBulletin Emojis
+# vBulletin Emoticons
 
 This plugin adds support for the common and less common vBulletin style emoticons.
 ![](https://raw.githubusercontent.com/cpradio/discourse-plugin-vb-emoticons/master/screenshot.png)
