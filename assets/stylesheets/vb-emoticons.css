@@ -1,4 +1,4 @@
-img.emoji[src*=vb_emoji] {
+img.emoji[src*=discourse-plugin-vb-emoticons] {
   width: auto;
   height: auto;
 }
