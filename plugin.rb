@@ -9,7 +9,7 @@ enabled_site_setting :vb_emoticons_enabled
 register_asset "stylesheets/vb-emoticons.css"
 
 # Global (non-vb-prefix)
-register_emoji "d\\'oh", "/plugins/discourse-plugin-vb-emoticons/images/doh.gif"
+register_emoji "doh", "/plugins/discourse-plugin-vb-emoticons/images/doh.gif"
 register_emoji "hawk", "/plugins/discourse-plugin-vb-emoticons/images/big-pink-valentine.gif"
 # Smilies 2006
 register_emoji "vb-smile", "/plugins/discourse-plugin-vb-emoticons/images/smile.gif"
@@ -95,7 +95,7 @@ register_emoji "vb-groan2", "/plugins/discourse-plugin-vb-emoticons/images/groan
 register_emoji "vb-sarcasm-sign", "/plugins/discourse-plugin-vb-emoticons/images/sarcasm-sign.gif"
 register_emoji "vb-sarcasm-clap", "/plugins/discourse-plugin-vb-emoticons/images/sarcasm-clap.gif"
 register_emoji "vb-tongue-in-cheek", "/plugins/discourse-plugin-vb-emoticons/images/tongue-in-cheek.png"
-register_emoji "vb-d\\'oh", "/plugins/discourse-plugin-vb-emoticons/images/doh.gif"
+register_emoji "vb-doh", "/plugins/discourse-plugin-vb-emoticons/images/doh.gif"
 # Valentine's Day Smilies
 register_emoji "vb-valentine2", "/plugins/discourse-plugin-vb-emoticons/images/valentine2.gif"
 register_emoji "vb-present", "/plugins/discourse-plugin-vb-emoticons/images/present.gif"
