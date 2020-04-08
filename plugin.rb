@@ -1,6 +1,6 @@
 # name: discourse-plugin-vb-emoticons
 # about: adds the old vb emoticons
-# version: 0.3
+# version: 0.3.1
 # authors: Matthew Wilkin and Allan
 # url: https://github.com/cpradio/discourse-plugin-vb-emoticons
 
